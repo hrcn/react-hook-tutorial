@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Example from './Example';
+import Example from './components/StateHook/Example';
 
 function App() {
   return (
